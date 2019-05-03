@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = "trigonometric"
+  s.name = "calculator"
   s.version = '0.0.2'
   s.date = '2019-05-03'
   s.authors = ["Cristian Mendoza"]
